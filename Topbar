@@ -1,0 +1,8 @@
+<!DOCKTYPE html>
+<div class="navbar">
+   <a href="#games"> games </a>
+   <div class="dropdown">
+     <button
+   class="dropbtn">community
+       <i class="fa fa-carret-down"
+   </i>
