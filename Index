@@ -1,0 +1,18 @@
+<!DOCKTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="navbar">
+   <a href="#games"> games </a>
+   <div class="dropdown">
+     <button class="dropbtn">community<i class="fa fa-carret-down"</i>
+     </button>
+         <div class="dropdown-content">
+           <a href="#">discord</a>
+           <a href="#">groups</a>
+           <a href="#">forum</a>
+         </div>
+    </div>
+</div>
