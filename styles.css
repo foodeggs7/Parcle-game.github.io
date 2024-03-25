@@ -20,6 +20,7 @@
 
   /*dropdown container */
   .dropdown {
+  display: run-in;
   float: center;
   overflow: hidden;
   }
