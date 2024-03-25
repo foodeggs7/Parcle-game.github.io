@@ -1,5 +1,6 @@
 /* navbar container */
   .navbar {
+  display: list-item;
   overflow: hidden;
   background-color: #fc0303;
   font-family: Trebuchet MS;
@@ -8,7 +9,7 @@
   /* links inside navbar */ 
 
   .navbar a {
-  display: list-item;
+  
   float: center;
   font-size: 16px;
   color: #ffbc03;
