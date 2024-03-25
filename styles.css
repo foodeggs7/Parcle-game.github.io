@@ -1,6 +1,6 @@
 /* navbar container */
   .navbar {
-  display: list-item;
+  display: run-in;
   overflow: hidden;
   background-color: #fc0303;
   font-family: Trebuchet MS;
