@@ -8,7 +8,7 @@
   /* links inside navbar */ 
 
   .navbar a {
-  display: inline;
+  display: list-item;
   float: center;
   font-size: 16px;
   color: #ffbc03;
