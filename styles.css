@@ -58,7 +58,7 @@
   color: black;
   padding: 12px 16px;
   text-decoration: none;
-  display: block;
+  display: inlin-grid;
   text-align: center;
 
   }
@@ -68,5 +68,5 @@
   }
 
   .dropdown:hover .dropdown-content {
-  display: block;
+  display: inline-grid;
     }
