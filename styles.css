@@ -1,5 +1,6 @@
 /* navbar container */
   .navbar {
+  display: run-in;
   overflow: hidden;
   background-color: #fc0303;
   font-family: Trebuchet MS;
@@ -8,9 +9,10 @@
   /* links inside navbar */ 
 
   .navbar a {
-  float: top;
+  display: run-in;
+  float: center;
   font-size: 16px;
-  color: #ff9603;
+  color: #ffab03;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -18,18 +20,20 @@
 
   /*dropdown container */
   .dropdown {
+  display: run-in;
   float: center;
   overflow: hidden;
   }
 
   /* dropdpwn button */
   .dropdown .dropbtn {
+  display: run-in;
   font-size 16px;
   border: 1px;
   outline: 1px;
   color: ff9603;
   padding: 14px 16px;
-  background-colo: inherit;
+  background-color: inherit;
   font-family: inherit;
   margin: 0;
   }
@@ -56,7 +60,7 @@
   color: black;
   padding: 12px 16px;
   text-decoration: none;
-  display: block;
+  display: inlin-grid;
   text-align: center;
 
   }
@@ -66,5 +70,5 @@
   }
 
   .dropdown:hover .dropdown-content {
-  display: block;
+  display: inline-grid;
     }
