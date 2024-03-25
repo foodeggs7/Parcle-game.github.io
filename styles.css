@@ -8,9 +8,9 @@
   /* links inside navbar */ 
 
   .navbar a {
-  float: top;
+  float: center;
   font-size: 16px;
-  color: #ff9603;
+  color: #ffbc03;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -29,7 +29,7 @@
   outline: 1px;
   color: ff9603;
   padding: 14px 16px;
-  background-colo: inherit;
+  background-color: inherit;
   font-family: inherit;
   margin: 0;
   }
