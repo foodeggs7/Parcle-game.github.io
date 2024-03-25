@@ -9,7 +9,7 @@
   /* links inside navbar */ 
 
   .navbar a {
-  
+  display: run-in;
   float: center;
   font-size: 16px;
   color: #ffbc03;
