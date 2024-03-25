@@ -8,6 +8,7 @@
   /* links inside navbar */ 
 
   .navbar a {
+  list-style-type: float;
   float: center;
   font-size: 16px;
   color: #ffbc03;
